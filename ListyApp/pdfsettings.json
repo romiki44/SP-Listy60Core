@@ -1,0 +1,24 @@
+{
+  "PdfOptions": {
+    "SpracovaniePath": "\\\\data\\data\\Public\\Odd412\\_Roman\\Listy60Test\\Spracovanie",
+    "TemplatePath": "\\\\data\\data\\Public\\Odd412\\_Roman\\Listy60Test\\Template",
+    "OdcPath": "\\\\data\\data\\Public\\Odd412\\_Roman\\Listy60Test\\Odc",
+    "EschrankyOptions": {
+      "WorkFolder":  "eschranky",
+      "DocxFileName": "InfoListy60_Eschranky.dotx",
+      "OdcFileName": "uv_ExportDocEschranky.odc",
+      "ExportSubFolder": "export",
+      "PagesPerPdf":  5
+    },
+    "TlacSkOptions": {
+      "WorkFolder": "tlac",
+      "DocxFileName": "InfoListy60_TlacSk.dotx",
+      "OdcFileName": "uv_ExportDocTlacSk.odc"
+    },
+    "TlacEuOptions": {
+      "WorkFolder": "eschranky",
+      "DocxFileName": "InfoListy60_TlacEu.dotx",
+      "OdcFileName": "uv_ExportDocTlacEU.odc"
+    }
+  }
+}
